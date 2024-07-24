@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\AD\\hardhat-deploy-contract\\contracts\\Hello_swtr.sol": {
+      "lastModificationDate": 1721834192760,
+      "contentHash": "8d3c56a7d566f6735bcb6b18343e4143",
+      "sourceName": "contracts/Hello_swtr.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "Swisstronik"
+      ]
+    }
+  }
+}
